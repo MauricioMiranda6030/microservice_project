@@ -1,0 +1,1 @@
+INSERT INTO publishers(name, address, country) VALUES('Penguin Random House','1752 Broadway, New York','USA'),('De Bolsillo','Gral. San Martin, 293','ARG');
